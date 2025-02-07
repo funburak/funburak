@@ -33,7 +33,6 @@ I'm a senior year student at Gebze Technical University Computer Engineering. I 
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="40" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" /></a>  
 <a href="https://godotengine.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot Engine" height="40" /></a>  
-<a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/Unreal_Engine#/media/File:Unreal_Engine_Logo_(new_typeface).svg" alt="Unreal Engine" height="40" /></a>  
 </div>  
 
 
