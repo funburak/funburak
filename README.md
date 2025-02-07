@@ -15,7 +15,8 @@ I am a senior year student at Gebze Technical University Computer Engineering.
 ---
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=funburak&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=funburak&theme=radical)
+
 
 ---
 
@@ -23,5 +24,3 @@ I am a senior year student at Gebze Technical University Computer Engineering.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-demirkaya/)
 
 ---
-
-⭐ **Star this repository** if you like it! 😊
