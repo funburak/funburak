@@ -4,7 +4,8 @@
 <a href="https://linkedin.com/in/burak-demirkaya" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
+
+<br\>
 
 I'm a senior year student at Gebze Technical University Computer Engineering. I like to work both on backend projects and game development.  
   
