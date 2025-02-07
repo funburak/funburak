@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Burak Demirkaya!
 
-<!--
-**funburak/funburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+I am a senior year student at Gebze Technical University Computer Engineering.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=funburak&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funburak&layout=compact&theme=radical)
+
+---
+
+### 🔥 GitHub Streak:
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
+
+---
+
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-demirkaya/)
+
+---
+
+⭐ **Star this repository** if you like it! 😊
