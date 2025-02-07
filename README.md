@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Burak Demirkaya!
 
-### 🚀 About Me:
 I am a senior year student at Gebze Technical University Computer Engineering.
 ---
 
